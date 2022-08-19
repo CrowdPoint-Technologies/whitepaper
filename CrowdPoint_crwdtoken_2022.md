@@ -1707,7 +1707,7 @@ for the semiconductor industry.
 Mr. Barkett earned a political economy degree from the University of
 California, Berkeley, in 2002 and an MBA from UC Davis, in 2009.
 
-[^1]: 2022 © CrowdPoint Technologies, Inc. \| All rights reserved.
+[^1]: 2022 © CrowdPoint Technologies, Inc. \| All rights reserved. This communication is for information purposes only and should not be regarded as a recommendation of, or an offer to sell or as a solicitation of an offer to buy, any financial product. Investments are offered only via private placement memorandum, Form C or other approved disclosure documents and definitive transaction documents Any potential purchaser should read such documents carefully, including all of the risk factors relating to the purchase of tokens, before purchasing.  Any securities offered are qualified in their entirety by and subject to the terms of the offering material, which can be found at https://crwdunit.com/terms.  Purchasing is highly speculative and involves significant risks and is suitable only for persons who can afford to lose their entire purchase amount.
 
 [^2]: Wieser, Friedrich von. 1893. *Natural Value.* London: Macmillan
     and Company.
